@@ -1,1 +1,1 @@
-The files containing my work are mypopd.c and mysmtpd.c. Other files are written by instructors or taken from other sources as per the top of the files. I do not claim any work apart from that in mypopd.c and mysmtpd.c as my own.
+The files containing my work are mypopd.c and mysmtpd.c. Other files are written by instructors or taken from other sources with credits given in appropriate files. I do not claim any work apart from that in mypopd.c and mysmtpd.c as my own.
